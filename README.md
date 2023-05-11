@@ -1,5 +1,9 @@
 # appLuyenThiTracNghiem
 Đây là một ứng dụng Android được viết bằng Kotlin để giúp người dùng ôn tập và luyện thi trắc nghiệm.<br>
+Cơ sở dữ liệu được quản lí bằng SQLite<br>
+
+
+
 **Chức năng**<br>
 Người dùng:
 1. Chọn bộ câu hỏi để làm bài thi.<br>
