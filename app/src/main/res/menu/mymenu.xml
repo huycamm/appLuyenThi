@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+                <item android:id="@+id/menuMonHoc"
+                    android:icon="@drawable/icon_monhoc"
+                    android:title="Trang chủ"/>
+                <item android:id="@+id/menuDiem"
+                    android:icon="@drawable/icon_score"
+                    android:title="Xem điểm"/>
+                <item android:id="@+id/menuTaiKhoan"
+                    android:icon="@drawable/icon_account"
+                    android:title="Tài khoản của tôi"/>
+                <item android:id="@+id/menuAdmin"
+                    android:title="Admin"
+                    android:icon="@drawable/icon_user"/>
+                <item android:id="@+id/menuDangXuat"
+                    android:icon="@drawable/icon_logout"
+                    android:title="Đăng xuất"/>
+        </group>
+</menu>
