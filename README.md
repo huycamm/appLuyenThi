@@ -27,5 +27,6 @@ Admin: Thêm, sửa, xóa các môn học và câu hỏi.<br>
 
 **Sử dụng**<br>
 Ứng dụng có thể được chạy trên điện thoại di động hoặc máy tính bảng chạy hệ điều hành Android từ phiên bản 5.0 trở lên.<br>
+Tài khoản mặc định của admin là userName là admin và mật khẩu là admin
 
       
